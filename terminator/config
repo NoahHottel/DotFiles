@@ -1,0 +1,23 @@
+[global_config]
+  borderless = True
+[keybindings]
+[profiles]
+  [[default]]
+    background_color = "#2e3436"
+    background_darkness = 0.75
+    background_type = transparent
+    cursor_color = "#aaaaaa"
+    font = System-ui 12
+    foreground_color = "#eeeeec"
+    show_titlebar = False
+    scrollbar_position = hidden
+    scrollback_infinite = True
+[layouts]
+  [[default]]
+    [[[window0]]]
+      type = Window
+      parent = ""
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+[plugins]

@@ -1,0 +1,404 @@
+17/08/21 (21:33:29) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+17/08/21 (21:33:33) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+17/08/21 (21:34:01) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+18/08/21 (13:06:33) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+18/08/21 (13:07:20) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+18/08/21 (13:09:05) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+18/08/21 (13:09:09) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+18/08/21 (13:36:05) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+18/08/21 (13:48:17) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+18/08/21 (18:11:51) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+18/08/21 (18:48:38) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+20/08/21 (19:36:20) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+23/08/21 (16:00:20) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+24/08/21 (18:56:03) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+27/08/21 (18:40:51) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+27/08/21 (18:57:16) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+28/08/21 (14:34:32) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+28/08/21 (14:34:32) | ERROR: <urlopen error [Errno -3] Temporary failure in name resolution>
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/urllib/request.py", line 1346, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "/usr/lib/python3.9/http/client.py", line 1253, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/usr/lib/python3.9/http/client.py", line 1299, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.9/http/client.py", line 1248, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.9/http/client.py", line 1008, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.9/http/client.py", line 948, in send
+    self.connect()
+  File "/usr/lib/python3.9/http/client.py", line 1415, in connect
+    super().connect()
+  File "/usr/lib/python3.9/http/client.py", line 919, in connect
+    self.sock = self._create_connection(
+  File "/usr/lib/python3.9/socket.py", line 822, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "/usr/lib/python3.9/socket.py", line 953, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 5009, in _checker
+    with urllib.request.urlopen("https://github.com/aristocratos/bpytop/raw/master/bpytop.py", timeout=5) as source: # type: ignore
+  File "/usr/lib/python3.9/urllib/request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.9/urllib/request.py", line 517, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.9/urllib/request.py", line 534, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "/usr/lib/python3.9/urllib/request.py", line 494, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.9/urllib/request.py", line 1389, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+  File "/usr/lib/python3.9/urllib/request.py", line 1349, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno -3] Temporary failure in name resolution>
+28/08/21 (16:02:01) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+28/08/21 (16:05:18) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+30/08/21 (19:41:15) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+30/08/21 (20:09:50) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+31/08/21 (17:19:41) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+31/08/21 (17:23:12) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+01/09/21 (20:25:10) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+02/09/21 (10:58:12) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+02/09/21 (11:28:16) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+04/09/21 (16:36:13) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+04/09/21 (18:53:38) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+04/09/21 (22:14:34) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+07/09/21 (15:25:08) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+09/09/21 (09:59:32) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+09/09/21 (15:01:12) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+09/09/21 (16:30:19) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+11/09/21 (21:36:36) | ERROR: Input thread failed with exception: [Errno 5] Input/output error
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 937, in _get_key
+    input_key += sys.stdin.read(1)						#* Read 1 key safely with blocking on
+OSError: [Errno 5] Input/output error
+14/09/21 (16:48:49) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+20/09/21 (12:21:50) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+22/09/21 (17:56:38) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+22/09/21 (18:49:40) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+24/09/21 (08:57:50) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+26/09/21 (18:42:30) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+26/09/21 (19:48:36) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+26/09/21 (19:49:55) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+27/09/21 (17:41:59) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+29/09/21 (20:00:38) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+01/10/21 (20:13:07) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+01/10/21 (20:13:53) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+04/10/21 (10:02:56) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+11/10/21 (15:49:13) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+11/10/21 (15:50:43) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+12/10/21 (19:18:08) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+12/10/21 (19:50:07) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+14/10/21 (18:52:59) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+15/10/21 (18:19:52) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+16/10/21 (23:28:17) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+21/10/21 (18:41:48) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+23/10/21 (17:29:33) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+24/10/21 (14:28:42) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+24/10/21 (15:03:59) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+25/10/21 (16:09:58) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+26/10/21 (15:14:33) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+03/11/21 (18:39:53) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+04/11/21 (22:45:10) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+05/11/21 (11:05:12) | ERROR: Input thread failed with exception: (5, 'Input/output error')
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 985, in _get_key
+    input_key = ""
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 778, in __exit__
+    termios.tcsetattr(self.stream, termios.TCSANOW, self.original_stty)
+termios.error: (5, 'Input/output error')
+05/11/21 (11:06:05) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+05/11/21 (19:56:38) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+05/11/21 (20:12:30) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+06/11/21 (21:18:13) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+11/11/21 (21:44:59) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+16/11/21 (19:31:26) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+16/11/21 (19:34:22) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+26/11/21 (19:27:31) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+27/11/21 (20:55:28) | ERROR: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'
+Traceback (most recent call last):
+  File "/home/nhottel/.local/lib/python3.9/site-packages/bpytop.py", line 1337, in refresh
+    for f in os.listdir(d):
+FileNotFoundError: [Errno 2] No such file or directory: '/home/nhottel/.config/bpytop/themes'

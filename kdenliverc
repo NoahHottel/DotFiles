@@ -1,0 +1,86 @@
+[MainWindow]
+HDMI-0 DVI-0 Height 1920x1080=1050
+HDMI-0 DVI-0 Width 1920x1080=1770
+HDMI-0 DVI-0 XPosition 1920x1080=2070
+HDMI-0 DVI-0 YPosition 1920x1080=30
+State=AAAA/wAAAAD9AAAAAgAAAAEAAAFaAAAB2PwCAAAAAfwAAAIiAAAB2AAAAM0BAAAd+gAAAAACAAAAAvsAAAAKAG0AaQB4AGUAcgEAAAHwAAACCwAAAK8BAAAC+wAAABgAZQBmAGYAZQBjAHQAXwBzAHQAYQBjAGsBAAAAAP////8AAABxAQAAAgAAAAIAAAbqAAAB0vwBAAAACfsAAAAUAHMAYwByAGUAZQBuAGcAcgBhAGIAAAAAAP////8AAACaAQAAA/sAAAAaAGEAdQBkAGkAbwBzAHAAZQBjAHQAcgB1AG0AAAAAAP////8AAABpAQAAA/wAAAAAAAACFgAAAIsA////+gAAAAABAAAABfsAAAAWAHAAcgBvAGoAZQBjAHQAXwBiAGkAbgEAAAAA/////wAAAFwBAAAD+wAAAB4AdAByAGEAbgBzAGkAdABpAG8AbgBfAGwAaQBzAHQBAAAAAP////8AAAAEAQAAA/sAAAAWAGUAZgBmAGUAYwB0AF8AbABpAHMAdAEAAAAA/////wAAAAQBAAAD+wAAAB4AYwBsAGkAcABfAHAAcgBvAHAAZQByAHQAaQBlAHMBAAAAAP////8AAABXAQAAA/sAAAAYAHUAbgBkAG8AXwBoAGkAcwB0AG8AcgB5AQAAAAD/////AAAAWwEAAAP8AAACFwAAAnIAAAFEAP////oAAAAAAgAAAAP7AAAAGABjAGwAaQBwAF8AbQBvAG4AaQB0AG8AcgEAAABEAAABzQAAAMsBAAAC+wAAABIAUwB1AGIAdABpAHQAbABlAHMAAAAAAP////8AAAEZAQAAA/sAAAAOAGwAaQBiAHIAYQByAHkBAAAAAP////8AAACaAQAAAvwAAASKAAACYAAAAUQA////+gAAAAACAAAAAvsAAAAeAHAAcgBvAGoAZQBjAHQAXwBtAG8AbgBpAHQAbwByAQAAAL8AAAEsAAAAywEAAAL7AAAAGABuAG8AdABlAHMAXwB3AGkAZABnAGUAdAEAAAAA/////wAAAI4BAAAC+wAAABYAdgBlAGMAdABvAHIAcwBjAG8AcABlAAAAAAD/////AAABQgEAAAP7AAAAEAB3AGEAdgBlAGYAbwByAG0AAAAAAP////8AAACxAQAAA/sAAAAUAHIAZwBiAF8AcABhAHIAYQBkAGUAAAAAAP////8AAACrAQAAA/sAAAASAGgAaQBzAHQAbwBnAHIAYQBtAAAAAAD/////AAABWgEAAAMAAAWPAAAB2AAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAABgAZQB4AHQAcgBhAFQAbwBvAGwAQgBhAHIBAAACS/////8AAAAAAAAAAA==
+ToolBarsMovable=Disabled
+
+[Recent Dirs]
+KdenliveClipFolder[$e]=$HOME/Videos,$HOME/Documents
+KdenliveProjectsFolder[$e]=$HOME/Media/KdenLive_Projects/2021_10_10_Baptism,$HOME/Media/KdenLive_Projects/2021_10_10_Baptism/,$HOME/Documents
+
+[Recent Files]
+File1[$e]=$HOME/Media/KdenLive_Projects/2021_10_10_Baptism/2021_10_10_Baptism.kdenlive
+Name1[$e]=2021_10_10_Baptism.kdenlive
+
+[Scope_Histogram]
+autoRefresh=true
+bEnabled=true
+gEnabled=true
+logScale=false
+rEnabled=true
+realtime=false
+rec601=false
+sEnabled=false
+yEnabled=true
+
+[Scope_RGB Parade]
+autoRefresh=true
+axis=false
+gradref=false
+paintmode=0
+realtime=false
+
+[Scope_Vectorscope]
+75PBox=false
+autoRefresh=true
+axis=false
+backgroundmode=0
+colorspace_ypbpr=false
+gain=1
+iqlines=false
+paintmode=0
+realtime=false
+
+[Scope_Waveform]
+autoRefresh=true
+paintmode=0
+realtime=false
+rec601=false
+
+[bin]
+treeviewheaders=AAAA/wAAAAAAAAABAAAAAAAAAAABAAAAAAAAAAAAAAAI/gAAAAcAAAAHAAAANAAAAAYAAAA0AAAABQAAAGYAAAAEAAAAPwAAAAMAAABHAAAAAgAAAHoAAAABAAAASAAAAjsAAAAIAQEAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAAIAAACOwAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAD6AAAAABP
+
+[capture]
+decklink_extension=mov
+decklink_parameters=vcodec=dnxhd vb=145000k acodec=pcm_s16le threads=%threads
+grab_extension=mov
+grab_parameters=-crf 25 -vcodec libx264 -preset veryfast -threads 0
+v4l_extension=mpg
+v4l_parameters=qscale=4 ab=192k vcodec=mpeg2video acodec=mp2 threads=%threads
+
+[env]
+defaultimageapp=/usr/bin/gimp
+defaultprojectfolder[$e]=$HOME/Videos
+ffmpegpath[$e]=/usr/bin/ffmpeg
+ffplaypath[$e]=/usr/bin/ffplay
+ffprobepath[$e]=/usr/bin/ffprobe
+mltpath[$e]=/usr/share/mlt/profiles
+rendererpath[$e]=/usr/bin/melt
+
+[timeline]
+trackheight=69
+
+[unmanaged]
+default_profile=atsc_1080p_2997
+force_breeze=true
+monitor_audio=false
+previewScaling=16
+producerslist=vorbis,pgm,blipflash,count,abnormal,color,colour,consumer,hold,loader,melt,melt_file,noise,timewarp,tone,qimage,qtext,kdenlivetitle,pango,pixbuf,xml,xml-string,xml-nogl,framebuffer,decklink,avformat,avformat-novalidate,slowmotion,frei0r.ising0r,frei0r.lissajous0r,frei0r.nois0r,frei0r.onecol0r,frei0r.partik0l,frei0r.plasma,frei0r.test_pat_B,frei0r.test_pat_C,frei0r.test_pat_G,frei0r.test_pat_I,frei0r.test_pat_L,frei0r.test_pat_R,ladspa.1416,ladspa.1885,ladspa.1881
+project_fps=29.97002997002997
+use_dark_breeze=true
+widgetstyle=Default
+
+[version]
+version=20.12.3

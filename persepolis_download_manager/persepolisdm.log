@@ -1,0 +1,292 @@
+**********
+
+2021-11-11 21:29:54,730 - Persepolis - INFO - python version: 3.9.5 (default, May 11 2021, 08:20:37) 
+[GCC 10.3.0]
+2021-11-11 21:29:54,730 - Persepolis - INFO - QT version: 5.15.2
+2021-11-11 21:29:54,730 - Persepolis - INFO - PyQt version: 5.15.4
+2021-11-11 21:29:54,730 - Persepolis - INFO - Operating system: Linux
+2021-11-11 21:29:54,731 - Persepolis - INFO - Desktop env.: Unity
+2021-11-11 21:29:56,387 - Persepolis - INFO - Aria2 is running
+2021-11-11 21:29:56,387 - Persepolis - INFO - Aria2 version: 1.35.0
+===================================================
+Persepolis Download Manager, 2021/11/11 21:36:40
+2021-11-11 21:36:40,394 - Persepolis - INFO - chrome: Json file is created successfully.
+persepolis executer file is created successfully.
+
+2021-11-11 21:36:40,410 - Persepolis - INFO - chromium: Json file is created successfully.
+persepolis executer file is created successfully.
+
+2021-11-11 21:36:40,418 - Persepolis - INFO - opera: Json file is created successfully.
+persepolis executer file is created successfully.
+
+2021-11-11 21:36:40,435 - Persepolis - INFO - vivaldi: Json file is created successfully.
+persepolis executer file is created successfully.
+
+2021-11-11 21:36:40,459 - Persepolis - INFO - firefox: Json file is created successfully.
+persepolis executer file is created successfully.
+
+2021-11-11 21:36:41,293 - Persepolis - INFO - youtube_dl version: 2021.04.07
+2021-11-11 21:36:41,880 - Persepolis - ERROR - Aria2 didn't respond!
+2021-11-11 21:36:41,880 - Persepolis - INFO - Starting Aria2
+2021-11-11 21:36:42,108 - Persepolis - INFO - 
+**********
+ffmpeg version 4.3.2-0+deb11u1ubuntu1 Copyright (c) 2000-2021 the
+FFmpeg developers built with gcc 10 (Ubuntu 10.2.1-20ubuntu1)
+configuration: --prefix=/usr --extra-version=0+deb11u1ubuntu1
+--toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu
+--incdir=/usr/include/x86_64-linux-gnu --arch=amd64 --enable-gpl
+--disable-stripping --enable-avresample --disable-filter=resample
+--enable-gnutls --enable-ladspa --enable-libaom --enable-libass
+--enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio
+--enable-libcodec2 --enable-libdav1d --enable-libflite --enable-
+libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme
+--enable-libgsm --enable-libjack --enable-libmp3lame --enable-
+libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus
+--enable-libpulse --enable-librabbitmq --enable-librsvg --enable-
+librubberband --enable-libshine --enable-libsnappy --enable-libsoxr
+--enable-libspeex --enable-libsrt --enable-libssh --enable-libtheora
+--enable-libtwolame --enable-libvidstab --enable-libvorbis --enable-
+libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-
+libxml2 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-lv2
+--enable-omx --enable-openal --enable-opencl --enable-opengl --enable-
+sdl2 --enable-pocketsphinx --enable-libmfx --enable-libdc1394
+--enable-libdrm --enable-libiec61883 --enable-nvenc --enable-
+chromaprint --enable-frei0r --enable-libx264 --enable-shared libavutil
+56. 51.100 / 56. 51.100 libavcodec     58. 91.100 / 58. 91.100
+libavformat    58. 45.100 / 58. 45.100 libavdevice    58. 10.100 / 58.
+10.100 libavfilter     7. 85.100 /  7. 85.100 libavresample   4.  0.
+0 /  4.  0.  0 libswscale      5.  7.100 /  5.  7.100 libswresample
+3.  7.100 /  3.  7.100 libpostproc    55.  7.100 / 55.  7.100
+**********
+
+2021-11-11 21:36:42,109 - Persepolis - INFO - python version: 3.9.5 (default, May 11 2021, 08:20:37) 
+[GCC 10.3.0]
+2021-11-11 21:36:42,109 - Persepolis - INFO - QT version: 5.15.2
+2021-11-11 21:36:42,109 - Persepolis - INFO - PyQt version: 5.15.4
+2021-11-11 21:36:42,109 - Persepolis - INFO - Operating system: Linux
+2021-11-11 21:36:42,109 - Persepolis - INFO - Desktop env.: Unity
+2021-11-11 21:36:43,936 - Persepolis - INFO - Aria2 is running
+2021-11-11 21:36:43,936 - Persepolis - INFO - Aria2 version: 1.35.0
+Persepolis Download Manager, 2021/11/11 21:37:21
+2021-11-11 21:37:21,794 - Persepolis - INFO - chrome: Json file is created successfully.
+persepolis executer file is created successfully.
+
+2021-11-11 21:37:21,806 - Persepolis - INFO - chromium: Json file is created successfully.
+persepolis executer file is created successfully.
+
+2021-11-11 21:37:21,822 - Persepolis - INFO - opera: Json file is created successfully.
+persepolis executer file is created successfully.
+
+2021-11-11 21:37:21,835 - Persepolis - INFO - vivaldi: Json file is created successfully.
+persepolis executer file is created successfully.
+
+2021-11-11 21:37:21,862 - Persepolis - INFO - firefox: Json file is created successfully.
+persepolis executer file is created successfully.
+
+2021-11-11 21:37:22,736 - Persepolis - INFO - youtube_dl version: 2021.04.07
+2021-11-11 21:37:23,350 - Persepolis - ERROR - Aria2 didn't respond!
+2021-11-11 21:37:23,350 - Persepolis - INFO - Starting Aria2
+2021-11-11 21:37:23,511 - Persepolis - INFO - 
+**********
+ffmpeg version 4.3.2-0+deb11u1ubuntu1 Copyright (c) 2000-2021 the
+FFmpeg developers built with gcc 10 (Ubuntu 10.2.1-20ubuntu1)
+configuration: --prefix=/usr --extra-version=0+deb11u1ubuntu1
+--toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu
+--incdir=/usr/include/x86_64-linux-gnu --arch=amd64 --enable-gpl
+--disable-stripping --enable-avresample --disable-filter=resample
+--enable-gnutls --enable-ladspa --enable-libaom --enable-libass
+--enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio
+--enable-libcodec2 --enable-libdav1d --enable-libflite --enable-
+libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme
+--enable-libgsm --enable-libjack --enable-libmp3lame --enable-
+libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus
+--enable-libpulse --enable-librabbitmq --enable-librsvg --enable-
+librubberband --enable-libshine --enable-libsnappy --enable-libsoxr
+--enable-libspeex --enable-libsrt --enable-libssh --enable-libtheora
+--enable-libtwolame --enable-libvidstab --enable-libvorbis --enable-
+libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-
+libxml2 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-lv2
+--enable-omx --enable-openal --enable-opencl --enable-opengl --enable-
+sdl2 --enable-pocketsphinx --enable-libmfx --enable-libdc1394
+--enable-libdrm --enable-libiec61883 --enable-nvenc --enable-
+chromaprint --enable-frei0r --enable-libx264 --enable-shared libavutil
+56. 51.100 / 56. 51.100 libavcodec     58. 91.100 / 58. 91.100
+libavformat    58. 45.100 / 58. 45.100 libavdevice    58. 10.100 / 58.
+10.100 libavfilter     7. 85.100 /  7. 85.100 libavresample   4.  0.
+0 /  4.  0.  0 libswscale      5.  7.100 /  5.  7.100 libswresample
+3.  7.100 /  3.  7.100 libpostproc    55.  7.100 / 55.  7.100
+**********
+
+2021-11-11 21:37:23,512 - Persepolis - INFO - python version: 3.9.5 (default, May 11 2021, 08:20:37) 
+[GCC 10.3.0]
+2021-11-11 21:37:23,512 - Persepolis - INFO - QT version: 5.15.2
+2021-11-11 21:37:23,512 - Persepolis - INFO - PyQt version: 5.15.4
+2021-11-11 21:37:23,512 - Persepolis - INFO - Operating system: Linux
+2021-11-11 21:37:23,512 - Persepolis - INFO - Desktop env.: Unity
+2021-11-11 21:37:25,380 - Persepolis - INFO - Aria2 is running
+2021-11-11 21:37:25,380 - Persepolis - INFO - Aria2 version: 1.35.0
+===================================================
+Persepolis Download Manager, 2021/11/11 21:39:22
+2021-11-11 21:39:22,263 - Persepolis - INFO - chrome: Json file is created successfully.
+persepolis executer file is created successfully.
+
+2021-11-11 21:39:22,278 - Persepolis - INFO - chromium: Json file is created successfully.
+persepolis executer file is created successfully.
+
+2021-11-11 21:39:22,309 - Persepolis - INFO - opera: Json file is created successfully.
+persepolis executer file is created successfully.
+
+2021-11-11 21:39:22,318 - Persepolis - INFO - vivaldi: Json file is created successfully.
+persepolis executer file is created successfully.
+
+2021-11-11 21:39:22,344 - Persepolis - INFO - firefox: Json file is created successfully.
+persepolis executer file is created successfully.
+
+2021-11-11 21:39:23,106 - Persepolis - INFO - youtube_dl version: 2021.04.07
+2021-11-11 21:39:23,906 - Persepolis - ERROR - Aria2 didn't respond!
+2021-11-11 21:39:23,906 - Persepolis - INFO - Starting Aria2
+2021-11-11 21:39:24,054 - Persepolis - INFO - 
+**********
+ffmpeg version 4.3.2-0+deb11u1ubuntu1 Copyright (c) 2000-2021 the
+FFmpeg developers built with gcc 10 (Ubuntu 10.2.1-20ubuntu1)
+configuration: --prefix=/usr --extra-version=0+deb11u1ubuntu1
+--toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu
+--incdir=/usr/include/x86_64-linux-gnu --arch=amd64 --enable-gpl
+--disable-stripping --enable-avresample --disable-filter=resample
+--enable-gnutls --enable-ladspa --enable-libaom --enable-libass
+--enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio
+--enable-libcodec2 --enable-libdav1d --enable-libflite --enable-
+libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme
+--enable-libgsm --enable-libjack --enable-libmp3lame --enable-
+libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus
+--enable-libpulse --enable-librabbitmq --enable-librsvg --enable-
+librubberband --enable-libshine --enable-libsnappy --enable-libsoxr
+--enable-libspeex --enable-libsrt --enable-libssh --enable-libtheora
+--enable-libtwolame --enable-libvidstab --enable-libvorbis --enable-
+libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-
+libxml2 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-lv2
+--enable-omx --enable-openal --enable-opencl --enable-opengl --enable-
+sdl2 --enable-pocketsphinx --enable-libmfx --enable-libdc1394
+--enable-libdrm --enable-libiec61883 --enable-nvenc --enable-
+chromaprint --enable-frei0r --enable-libx264 --enable-shared libavutil
+56. 51.100 / 56. 51.100 libavcodec     58. 91.100 / 58. 91.100
+libavformat    58. 45.100 / 58. 45.100 libavdevice    58. 10.100 / 58.
+10.100 libavfilter     7. 85.100 /  7. 85.100 libavresample   4.  0.
+0 /  4.  0.  0 libswscale      5.  7.100 /  5.  7.100 libswresample
+3.  7.100 /  3.  7.100 libpostproc    55.  7.100 / 55.  7.100
+**********
+
+2021-11-11 21:39:24,055 - Persepolis - INFO - python version: 3.9.5 (default, May 11 2021, 08:20:37) 
+[GCC 10.3.0]
+2021-11-11 21:39:24,055 - Persepolis - INFO - QT version: 5.15.2
+2021-11-11 21:39:24,055 - Persepolis - INFO - PyQt version: 5.15.4
+2021-11-11 21:39:24,055 - Persepolis - INFO - Operating system: Linux
+2021-11-11 21:39:24,055 - Persepolis - INFO - Desktop env.: Unity
+2021-11-11 21:39:25,929 - Persepolis - INFO - Aria2 is running
+2021-11-11 21:39:25,929 - Persepolis - INFO - Aria2 version: 1.35.0
+2021-11-12 19:24:59,277 - Persepolis - ERROR - Spider couldn't find file name
+2021-11-12 19:25:00,362 - Persepolis - INFO - 412c3e7b521d093a Starts
+2021-11-12 19:25:00,749 - Persepolis - INFO - Download complete - GID : 412c3e7b521d093a
+2021-11-12 19:26:19,013 - Persepolis - ERROR - Spider couldn't find file name
+2021-11-12 19:26:20,981 - Persepolis - INFO - b93e862684e9ae8f Starts
+2021-11-12 19:26:21,468 - Persepolis - INFO - Download complete - GID : b93e862684e9ae8f
+2021-11-12 19:29:09,104 - Persepolis - ERROR - Spider couldn't find file name
+2021-11-12 19:29:15,855 - Persepolis - ERROR - Spider couldn't find file name
+2021-11-12 19:29:16,510 - Persepolis - ERROR - Spider couldn't find file name
+2021-11-12 19:29:23,560 - Persepolis - INFO - 5980a2cd5e9e4469 Starts
+2021-11-12 19:29:24,774 - Persepolis - INFO - Download complete - GID : 5980a2cd5e9e4469
+2021-11-15 16:43:59,536 - Persepolis - INFO - Please wait ...
+2021-11-15 16:43:59,541 - Persepolis - INFO - Aria2 Shutdown : OK
+2021-11-15 16:44:00,143 - Persepolis - INFO - Persepolis closed!
+Persepolis Download Manager, 2021/11/15 16:44:22
+2021-11-15 16:44:22,734 - Persepolis - INFO - chrome: Json file is created successfully.
+persepolis executer file is created successfully.
+
+2021-11-15 16:44:22,743 - Persepolis - INFO - chromium: Json file is created successfully.
+persepolis executer file is created successfully.
+
+2021-11-15 16:44:22,756 - Persepolis - INFO - opera: Json file is created successfully.
+persepolis executer file is created successfully.
+
+2021-11-15 16:44:22,763 - Persepolis - INFO - vivaldi: Json file is created successfully.
+persepolis executer file is created successfully.
+
+2021-11-15 16:44:22,774 - Persepolis - INFO - firefox: Json file is created successfully.
+persepolis executer file is created successfully.
+
+2021-11-15 16:44:23,514 - Persepolis - INFO - youtube_dl version: 2021.04.07
+2021-11-15 16:44:23,964 - Persepolis - ERROR - Aria2 didn't respond!
+2021-11-15 16:44:23,964 - Persepolis - INFO - Starting Aria2
+2021-11-15 16:44:24,229 - Persepolis - INFO - 
+**********
+ffmpeg version 4.3.2-0+deb11u1ubuntu1 Copyright (c) 2000-2021 the
+FFmpeg developers built with gcc 10 (Ubuntu 10.2.1-20ubuntu1)
+configuration: --prefix=/usr --extra-version=0+deb11u1ubuntu1
+--toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu
+--incdir=/usr/include/x86_64-linux-gnu --arch=amd64 --enable-gpl
+--disable-stripping --enable-avresample --disable-filter=resample
+--enable-gnutls --enable-ladspa --enable-libaom --enable-libass
+--enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio
+--enable-libcodec2 --enable-libdav1d --enable-libflite --enable-
+libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme
+--enable-libgsm --enable-libjack --enable-libmp3lame --enable-
+libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus
+--enable-libpulse --enable-librabbitmq --enable-librsvg --enable-
+librubberband --enable-libshine --enable-libsnappy --enable-libsoxr
+--enable-libspeex --enable-libsrt --enable-libssh --enable-libtheora
+--enable-libtwolame --enable-libvidstab --enable-libvorbis --enable-
+libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-
+libxml2 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-lv2
+--enable-omx --enable-openal --enable-opencl --enable-opengl --enable-
+sdl2 --enable-pocketsphinx --enable-libmfx --enable-libdc1394
+--enable-libdrm --enable-libiec61883 --enable-nvenc --enable-
+chromaprint --enable-frei0r --enable-libx264 --enable-shared libavutil
+56. 51.100 / 56. 51.100 libavcodec     58. 91.100 / 58. 91.100
+libavformat    58. 45.100 / 58. 45.100 libavdevice    58. 10.100 / 58.
+10.100 libavfilter     7. 85.100 /  7. 85.100 libavresample   4.  0.
+0 /  4.  0.  0 libswscale      5.  7.100 /  5.  7.100 libswresample
+3.  7.100 /  3.  7.100 libpostproc    55.  7.100 / 55.  7.100
+**********
+
+2021-11-15 16:44:24,229 - Persepolis - INFO - python version: 3.9.5 (default, May 11 2021, 08:20:37) 
+[GCC 10.3.0]
+2021-11-15 16:44:24,229 - Persepolis - INFO - QT version: 5.15.2
+2021-11-15 16:44:24,229 - Persepolis - INFO - PyQt version: 5.15.4
+2021-11-15 16:44:24,229 - Persepolis - INFO - Operating system: Linux
+2021-11-15 16:44:24,229 - Persepolis - INFO - Desktop env.: Unity
+2021-11-15 16:44:25,989 - Persepolis - INFO - Aria2 is running
+2021-11-15 16:44:25,990 - Persepolis - INFO - Aria2 version: 1.35.0
+2021-11-16 17:20:35,024 - Persepolis - INFO - c6d4f25e9e867649 Starts
+2021-11-16 17:20:38,339 - Persepolis - INFO - Download complete - GID : c6d4f25e9e867649
+2021-11-16 17:22:51,723 - Persepolis - INFO - c145c6321d46dc7c Starts
+2021-11-16 17:22:54,166 - Persepolis - INFO - Download complete - GID : c145c6321d46dc7c
+2021-11-17 06:18:48,246 - Persepolis - ERROR - Spider couldn't find file name
+2021-11-17 06:18:48,247 - Persepolis - ERROR - Spider couldn't find file size
+2021-11-17 06:18:50,348 - Persepolis - ERROR - Download did not start
+2021-11-17 06:18:50,349 - Persepolis - ERROR - Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/persepolis/scripts/download.py", line 284, in downloadAria
+    answer = server.aria2.addUri([link], aria_dict)
+  File "/usr/lib/python3.9/xmlrpc/client.py", line 1116, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python3.9/xmlrpc/client.py", line 1458, in __request
+    response = self.__transport.request(
+  File "/usr/lib/python3.9/xmlrpc/client.py", line 1160, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python3.9/xmlrpc/client.py", line 1176, in single_request
+    return self.parse_response(resp)
+  File "/usr/lib/python3.9/xmlrpc/client.py", line 1348, in parse_response
+    return u.close()
+  File "/usr/lib/python3.9/xmlrpc/client.py", line 662, in close
+    raise Fault(**self._stack[0])
+xmlrpc.client.Fault: <Fault 1: 'No URI to download.'>
+
+2021-11-17 06:18:50,438 - Persepolis - ERROR - Download failed - GID : d09499ade778d122- Message : Error
+2021-11-18 06:00:44,232 - Persepolis - ERROR - Spider couldn't find file name
+2021-11-18 06:02:00,639 - Persepolis - ERROR - Spider couldn't find file name
+2021-11-18 06:02:12,361 - Persepolis - INFO - b07df122f6b71058 Starts
+2021-11-18 06:02:14,878 - Persepolis - INFO - Download complete - GID : b07df122f6b71058
+2021-11-18 06:02:19,226 - Persepolis - INFO - d558863946f1b5ad Starts
+2021-11-18 06:02:20,369 - Persepolis - INFO - Download complete - GID : d558863946f1b5ad
+2021-11-18 06:02:23,716 - Persepolis - INFO - Please wait ...
+2021-11-18 06:02:23,717 - Persepolis - INFO - Aria2 Shutdown : OK
+2021-11-18 06:02:24,420 - Persepolis - INFO - Persepolis closed!
